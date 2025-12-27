@@ -1,0 +1,15 @@
+{
+  "name": "google-3d-login",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.20.0",
+    "cookie-parser": "^1.4.6",
+    "google-auth-library": "^9.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+}
